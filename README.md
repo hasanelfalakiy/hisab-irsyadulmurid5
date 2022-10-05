@@ -16,5 +16,6 @@ Anda bisa skip langkah ini jika sudah menginstall python.
 Program ini sangat mudah dipahami anda hanya perlu mengikuti langkah diatas setelah program dijalankan akan muncul permintaan masukkan data tanggal, bulan dan tahun contoh 1 12 2022 satu per satu diikuti enter, untuk sementara waktu program ini hanya menampilkan hasil perhitungan waktu Sholat untuk Kota/Kabupaten Ngawi.
 
 # screenshot 
-![image.png]({https://github.com/andihasan97/hisab-irsyadulmurid5/blob/main/screenshot/Screenshot_20221005_180329.JPG})
-![image.png]({https://github.com/andihasan97/hisab-irsyadulmurid5/blob/main/screenshot/Screenshot_20221005_180444.JPG})
+![image](https://github.com/andihasan97/hisab-irsyadulmurid5/blob/main/screenshot/Screenshot_20221005_180329.JPG)
+
+![image](https://github.com/andihasan97/hisab-irsyadulmurid5/blob/main/screenshot/Screenshot_20221005_180444.JPG)
