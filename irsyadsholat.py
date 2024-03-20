@@ -22,7 +22,7 @@ class IrsyadSholat:
 		self.elev = elev
 		self.ihthiyat = ihthiyat
 		
-		iht = (2 / 60)
+		iht = (self.ihthiyat/ 60)
 		
 		if bulan < 3:
 			G = bulan + 12

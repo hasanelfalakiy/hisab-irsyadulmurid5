@@ -33,8 +33,8 @@ chek = input('Timur = y, Barat = n : ').lower().strip() == 'y'
 
 ihti = int(input('Ihthiyat (int menit) : '))
 
-Lintang = toDecimal(ld, lm, ldd, cek)
-Bujur = toDecimal(bd, bm, bdd, chek)
+lintang = toDecimal(ld, lm, ldd, cek)
+bujur = toDecimal(bd, bm, bdd, chek)
 
 # ihthiyat 2 menit = 2 / 60
 
@@ -43,8 +43,8 @@ ir = IrsyadSholat(
 	tanggal,
 	bulan,
 	tahun,
-	Lintang,
-	Bujur,
+	lintang,
+	bujur,
 	timeZ,
 	elev,
 	ihti
@@ -139,7 +139,7 @@ print("_______________________________________________________")
 print("")
 print("-------------- Waktu Sholat ",kota,"------------------")
 print(" ")
-print("   ", toDegree2(Lintang)," ~ ", toDegree2(Bujur)," ",elev,"mdpl")
+print("   ", toDegree2(lintang)," ~ ", toDegree2(bujur)," ",elev,"mdpl")
 print(" ")
 print("Tanggal: ", tanggal," ",bulan," ",tahun)
 print(" ")
